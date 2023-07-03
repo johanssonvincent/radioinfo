@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: se.umu.cs.dv14vjn.radio.Client
+Class-Path: . ./com/fasterxml/jackson/core/jackson-core/2.14.1/jackson-core-2.14.1.jar ./com/fasterxml/jackson/core/jackson-annotations/2.14.1/jackson-annotations-2.14.1.jar ./com/fasterxml/jackson/core/jackson-databind/2.14.1/jackson-databind-2.14.1.jar
+
